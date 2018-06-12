@@ -5,4 +5,4 @@ Use the apropriate fixes only in case you are affected by the described issues a
 <br/>
 In case of any doubts, do not apply fixes without the specific request from Sitecore Support.<br/>
 <br/>
-More details: KB Link
+Details: KB Link
