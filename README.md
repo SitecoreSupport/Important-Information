@@ -5,4 +5,9 @@ Use the apropriate fixes only in case you are affected by the described issues a
 <br/>
 In case of any doubts, do not apply fixes without the specific request from Sitecore Support.<br/>
 <br/>
+
+## Feedback
+
+The feedback or issue reports provided on GitHub may not be processed. Contact Sitecore Support in case of any issues.
+
 Details: KB Link
