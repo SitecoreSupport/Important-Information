@@ -7,7 +7,7 @@ In case of any uncertainty, always contact Sitecore Support before applying Site
 
 ## Feedback
 
-Sitecore will not process the feedback or questions about patches reported via GitHub.<br/>Any related inquiries should be directed to the Sitecore Support Portal.<br/>
+Sitecore will not process the feedback or questions about patches reported via GitHub.<br/>Any related inquiries should be directed to the [Sitecore Support Portal](https://kb.sitecore.net/articles/654910).<br/>
 
 ## Details
 
