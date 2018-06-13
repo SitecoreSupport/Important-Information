@@ -10,4 +10,5 @@ In case of any doubts, do not apply fixes without the specific request from Site
 The feedback or issue reports provided on GitHub may not be processed. Contact Sitecore Support in case of any issues.<br/>
 
 ## Details
-KB Link
+
+KB Link.
