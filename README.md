@@ -11,4 +11,4 @@ Sitecore will not process the feedback or questions about patches reported via G
 
 ## Details
 
-KB Link.
+https://kb.sitecore.net/articles/921021
